@@ -1,0 +1,4 @@
+transformers==4.30.0        # For Hugging Face model pipeline
+requests==2.28.1            # For making HTTP requests (web scraping and Slack API)
+beautifulsoup4==4.11.1      # For parsing HTML during web scraping
+python-dotenv==1.0.0        # For managing environment variables (optional)
